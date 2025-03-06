@@ -1,0 +1,54 @@
+🚀 Project Overview:
+This project analyzes a commercial store's sales data using Power BI to uncover key business insights. It includes multiple dashboards focusing on different aspects of sales performance.
+
+📊 Dashboards & Analysis:
+
+1️⃣ Sales Overview Dashboard
+📌 Objective: Provide a high-level view of overall sales performance.
+📌 Key Features:
+Total sales, revenue, and profit trends
+Year-over-year and month-over-month growth
+Sales distribution by product category and region
+📌 Key Insights:
+Identified top-performing sales regions
+Sales growth trends highlight peak seasons
+Revenue concentration in a few product categories
+2️⃣ Revenue & Profit Dashboard
+📌 Objective: Analyze profitability and revenue trends.
+📌 Key Features:
+Revenue vs. Cost vs. Profit comparison
+Gross margin analysis across different time periods
+Revenue breakdown by sales channels
+📌 Key Insights:
+Profit margins fluctuate across different product categories
+Certain months show declining profits, indicating cost management issues
+High-cost products contribute less to overall profit
+3️⃣ Product Performance Dashboard
+📌 Objective: Identify the best and worst-performing products.
+📌 Key Features:
+Top-selling and least-selling products
+Revenue contribution by product category
+Average sales per product unit
+📌 Key Insights:
+A small number of products contribute to the majority of revenue
+Some products underperform despite high sales volume due to low margins
+Opportunity to optimize pricing and promotions for slow-moving products
+4️⃣ Monthly Sales Trend Dashboard
+📌 Objective: Understand sales trends over time.
+📌 Key Features:
+Monthly sales trend visualization
+Seasonality patterns and demand fluctuations
+Moving average and forecasting trends
+📌 Key Insights:
+Sales spike during specific months, indicating seasonal demand
+Off-season months require strategic promotions to boost revenue
+Forecasting models suggest an opportunity to anticipate future demand
+
+🛠 Technologies Used
+Power BI – Data visualization & dashboarding
+DAX (Data Analysis Expressions) – Calculated measures & KPIs
+Excel/SQL – Data cleaning & preprocessing
+
+🚀 Conclusion
+This project helped uncover crucial sales insights for better decision-making. The dashboards provide a data-driven approach to improving sales strategy, optimizing product performance, and boosting overall revenue.
+
