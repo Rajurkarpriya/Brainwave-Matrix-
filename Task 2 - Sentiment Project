@@ -1,0 +1,22 @@
+This project is part of my internship at Brainware Matrix Solutions and focuses on analyzing user sentiments from social media platforms like Twitter, Facebook, and Instagram. The dataset contains posts tagged with emotions, platforms, countries, post timings, likes, retweets, and hashtags.
+
+🔍 Objectives:
+Analyze emotional tone across user posts
+Identify top sentiments, platforms, and posting trends
+Discover most active countries and peak engagement hours
+Extract and visualize trending hashtags
+
+🛠️ Technologies Used:
+Python (Pandas, Matplotlib, Seaborn)
+Regex, Collections for hashtag extraction
+Jupyter Notebook
+CSV data handling
+
+📈 Key Insights:
+Most common sentiments: Positive, Joy, Excitement
+Active hours: 2 PM to 7 PM
+Most active countries: USA, UK, Canada
+Trending hashtags align with emotional well-being and gratitude
+
+✅ Outcomes:
+This project strengthened my skills in data wrangling, exploratory analysis, and visualization. It also helped me understand how to draw actionable insights from unstructured, real-world social media data.
